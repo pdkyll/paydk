@@ -1,6 +1,5 @@
 # 20240904 周二
-wrapper配置？
-
+wrapper配置？android studio要开全局代理？
 # 20240902 周一
 android 安装java环境 
 
