@@ -1,5 +1,6 @@
 # 20241202 周一
 安装morefine s600,
+WSL用宿主机的linux配置网络图形界面配置使用主机MIRROR,dns隧道等
 
 # 20241108 周五
 solana
